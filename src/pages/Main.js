@@ -18,11 +18,11 @@ function Main() {
       <h1 className="dns-logo">DNS</h1>
       <h2 className="title">Генератор подарков</h2>
       <p className="subtitle">
-        Заполните небольшую анкету, и мы предложим Вам несколько идей для подарка
+        Заполнив небольшую анкету, мы сможем подобрать лучшие идеи для вашего новогоднего подарка
       </p>
       <div className="button-container">
-        <button className="main-button" onClick={handleAdultClick}>Взрослому</button>
-        <button className="main-button" onClick={handleChildClick}>Ребенку</button>
+        <button className="main-button" onClick={handleAdultClick}>Подарок Мужчине</button>
+        <button className="main-button" onClick={handleChildClick}>Подарок Женщине</button>
       </div>
     </div>
   );
