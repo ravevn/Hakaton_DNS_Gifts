@@ -1,0 +1,363 @@
+[
+    {
+      "id": 1,
+      "name": "Эргономичная клавиатура",
+      "description": "Клавиатура, разработанная для комфортной работы",
+      "imageUrl": "https://example.com/image1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Монитор с высоким разрешением",
+      "description": "Монитор с высоким разрешением для четкого изображения",
+      "imageUrl": "https://example.com/image2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Умная колонка с голосовым помощником",
+      "description": "Колонка с голосовым помощником для управления дома",
+      "imageUrl": "https://example.com/image3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Графический планшет",
+      "description": "Планшет для рисования и творчества",
+      "imageUrl": "https://example.com/image4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "MIDI-клавиатура",
+      "description": "Клавиатура для музыкального творчества",
+      "imageUrl": "https://example.com/image5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Программное обеспечение для творчества",
+      "description": "Программа для создания музыки, видео и изображений",
+      "imageUrl": "https://example.com/image6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Экшн-камера",
+      "description": "Камера для съемки видео и фотографий в движении",
+      "imageUrl": "https://example.com/image7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Смарт-браслет для отслеживания активности",
+      "description": "Браслет для отслеживания физической активности",
+      "imageUrl": "https://example.com/image8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Наушники для спорта",
+      "description": "Наушники для прослушивания музыки во время спорта",
+      "imageUrl": "https://example.com/image9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Умная лампочка с управлением через приложение",
+      "description": "Лампочка с управлением через приложение для смартфона",
+      "imageUrl": "https://example.com/image10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ароматизатор воздуха с функцией увлажнения",
+      "description": "Ароматизатор воздуха с функцией увлажнения",
+      "imageUrl": "https://example.com/image11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Портативная колонка для музыки",
+      "description": "Колонка для прослушивания музыки в движении",
+      "imageUrl": "https://example.com/image12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Игровая клавиатура",
+      "description": "Клавиатура для игр",
+      "imageUrl": "https://example.com/image13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Игровая гарнитура",
+      "description": "Гарнитура для игр",
+      "imageUrl": "https://example.com/image14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Внешняя видеокарта",
+      "description": "Видеокарта для игр",
+      "imageUrl": "https://example.com/image15.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Автомобильный держатель для телефона",
+      "description": "Держатель для телефона в автомобиле",
+      "imageUrl": "https://example.com/image16.jpg"
+    },
+    {
+      "id": 17,
+      "name": "GPS-навигатор",
+      "description": "Навигатор для автомобиля",
+      "imageUrl": "https://example.com/image17.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Видеорегистратор",
+      "description": "Регистратор для автомобиля",
+      "imageUrl": "https://example.com/image18.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Портативный зарядник",
+      "description": "Зарядник для смартфона",
+      "imageUrl": "https://example.com/image19.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Наушники для комфортного прослушивания музыки",
+      "description": "Наушники для прослушивания музыки",
+      "imageUrl": "https://example.com/image20.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Чехол для ноутбука или планшета",
+      "description": "Чехол для защиты ноутбука или планшета",
+      "imageUrl": "https://example.com/image21.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Чемодан с USB-портом для зарядки",
+      "description": "Чемодан с USB-портом для зарядки смартфона",
+      "imageUrl": "https://example.com/image22.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Беспроводные наушники",
+      "description": "Беспроводные наушники для прослушивания музыки",
+      "imageUrl": "https://example.com/image23.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Портативный Wi-Fi роутер",
+      "description": "Роутер для доступа к Wi-Fi",
+      "imageUrl": "https://example.com/image24.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Туристический рюкзак с встроенной системой зарядки",
+      "description": "Рюкзак с системой зарядки для смартфона",
+      "imageUrl": "https://example.com/image25.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Фитнес-трекер",
+      "description": "Трекер для отслеживания физической активности",
+      "imageUrl": "https://example.com/image26.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Компас или GPS-трекер",
+      "description": "Компас или трекер для навигации",
+      "imageUrl": "https://example.com/image27.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Велокомпьютер",
+      "description": "Компьютер для велосипеда",
+      "imageUrl": "https://example.com/image28.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Фонарь для велосипеда",
+      "description": "Фонарь для велосипеда",
+      "imageUrl": "https://example.com/image29.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Специальные наушники для спорта",
+      "description": "Наушники для спорта",
+      "imageUrl": "https://example.com/image30.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Умные часы с функцией мониторинга здоровья",
+      "description": "Часы с функцией мониторинга здоровья",
+      "imageUrl": "https://example.com/image31.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Наушники с функцией шумоподавления",
+      "description": "Наушники с функцией шумоподавления",
+      "imageUrl": "https://example.com/image32.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Планшет для заметок",
+      "description": "Планшет для заметок",
+      "imageUrl": "https://example.com/image33.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Таймер или умный будильник",
+      "description": "Таймер или будильник",
+      "imageUrl": "https://example.com/image34.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Календарь с планировщиком задач",
+      "description": "Календарь с планировщиком задач",
+      "imageUrl": "https://example.com/image35.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Умная колонка с функцией напоминаний",
+      "description": "Колонка с функцией напоминаний",
+      "imageUrl": "https://example.com/image36.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Чехол для телефона с защитой от внешних воздействий",
+      "description": "Чехол для защиты телефона",
+      "imageUrl": "https://example.com/image37.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Камера безопасности для дома",
+      "description": "Камера безопасности для дома",
+      "imageUrl": "https://example.com/image38.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Умная система охраны (например, датчики движения)",
+      "description": "Система охраны для дома",
+      "imageUrl": "https://example.com/image39.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Дрон с камерой",
+      "description": "Дрон с камерой",
+      "imageUrl": "https://example.com/image40.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Летний набор для отдыха (например, параплан)",
+      "description": "Набор для отдыха",
+      "imageUrl": "https://example.com/image41.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Видеокамера для съемки полетов",
+      "description": "Камера для съемки полетов",
+      "imageUrl": "https://example.com/image42.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Фитнес-трекер с функцией мониторинга здоровья",
+      "description": "Трекер с функцией мониторинга здоровья",
+      "imageUrl": "https://example.com/image43.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Умный массажер или массажная подушка",
+      "description": "Массажер или массажная подушка",
+      "imageUrl": "https://example.com/image44.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Устройство для ароматерапии",
+      "description": "Устройство для ароматерапии",
+      "imageUrl": "https://example.com/image45.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Мультиметр",
+      "description": "Мультиметр",
+      "imageUrl": "https://example.com/image46.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Лазерный уровень",
+      "description": "Лазерный уровень",
+      "imageUrl": "https://example.com/image47.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Набор инструментов",
+      "description": "Набор инструментов",
+      "imageUrl": "https://example.com/image48.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Bluetooth-колонка",
+      "description": "Колонка с Bluetooth",
+      "imageUrl": "https://example.com/image49.jpg"
+    },
+    {
+      "id": 50,
+      "name": "MIDI-клавиатура",
+      "description": "Клавиатура для музыкального творчества",
+      "imageUrl": "https://example.com/image50.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Портативный рекордер",
+      "description": "Рекордер для записи music",
+      "imageUrl": "https://example.com/image51.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Графический планшет",
+      "description": "Планшет для рисования и творчества",
+      "imageUrl": "https://example.com/image52.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Принтер для фотографий",
+      "description": "Принтер для фотографий",
+      "imageUrl": "https://example.com/image53.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Программное обеспечение для дизайна",
+      "description": "Программа для дизайна",
+      "imageUrl": "https://example.com/image54.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Планшет или электронная записная книжка",
+      "description": "Планшет или записная книжка",
+      "imageUrl": "https://example.com/image55.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Умная колонка с голосовым помощником",
+      "description": "Колонка с голосовым помощником",
+      "imageUrl": "https://example.com/image56.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Календарь или планировщик",
+      "description": "Календарь или планировщик",
+      "imageUrl": "https://example.com/image57.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Настольная игра",
+      "description": "Настольная игра",
+      "imageUrl": "https://example.com/image58.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Портативная консоль для игр",
+      "description": "Консоль для игр",
+      "imageUrl": "https://example.com/image59.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Комедийные фильмы на DVD",
+      "description": "Фильмы на DVD",
+      "imageUrl": "https://example.com/image60.jpg"
+    }
+  ]
+  

@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     font-family: "Arial", sans-serif;
-    background-color: #f5f5f5; 
+    background-color: ffffff; 
   }
   
   /*  DNS*/
@@ -45,12 +45,11 @@
   /* Контейнер для подарков */
   .gifts-container {
     display: flex;
-    justify-content: center;
     flex-wrap: wrap;
-    gap: 20px; 
-    max-width: 1000px;
-    margin-top: 40px;
-    padding: 0 20px;
+    justify-content: center;
+    gap: 20px;
+    max-width: 100%;
+    overflow: visible;
   }
   
   /* Стили для каждой карточки с подарком */
@@ -64,7 +63,7 @@
     transition: transform 0.3s ease-in-out;
   }
   
-  /* Ховер эффект для карточек */
+  
   .gift-item:hover {
     transform: translateY(-10px);
   }
