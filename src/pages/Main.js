@@ -1,16 +1,17 @@
 import React from "react";
-import { useNavigate } from "react-router-dom"; 
+import { useNavigate } from "react-router-dom";
+import SliderComponent from "../components/SliderComponent";
 import "../styles/Main.css";
 
 function Main() {
   const navigate = useNavigate();
 
   const handleAdultClick = () => {
-    navigate("/form/adult");  // форма для взрослого
+    navigate("/form/man");
   };
 
   const handleChildClick = () => {
-    navigate("/form/child"); // форма для чилдрена
+    navigate("/form/woman");
   };
 
   return (
@@ -20,9 +21,14 @@ function Main() {
       <p className="subtitle">
         Заполнив небольшую анкету, мы сможем подобрать лучшие идеи для вашего новогоднего подарка
       </p>
+      <SliderComponent />
       <div className="button-container">
-        <button className="main-button" onClick={handleAdultClick}>Подарок Мужчине</button>
-        <button className="main-button" onClick={handleChildClick}>Подарок Женщине</button>
+        <button className="main-button" onClick={handleChildClick}>
+          Подарок Девушке
+        </button>
+        <button className="main-button" onClick={handleAdultClick}>
+          Подарок Мужчине
+        </button>
       </div>
     </div>
   );
